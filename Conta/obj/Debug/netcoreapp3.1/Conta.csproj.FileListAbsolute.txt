@@ -1,0 +1,14 @@
+C:\Users\Douglas\source\repos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.exe
+C:\Users\Douglas\source\repos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.deps.json
+C:\Users\Douglas\source\repos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.runtimeconfig.json
+C:\Users\Douglas\source\repos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.runtimeconfig.dev.json
+C:\Users\Douglas\source\repos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.dll
+C:\Users\Douglas\source\repos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.pdb
+C:\Users\Douglas\source\repos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.csproj.AssemblyReference.cache
+C:\Users\Douglas\source\repos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\source\repos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.AssemblyInfoInputs.cache
+C:\Users\Douglas\source\repos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.AssemblyInfo.cs
+C:\Users\Douglas\source\repos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.dll
+C:\Users\Douglas\source\repos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.pdb
+C:\Users\Douglas\source\repos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.genruntimeconfig.cache
